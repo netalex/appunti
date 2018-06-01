@@ -2,4 +2,4 @@
 
 repo dove raccogliere tutti gli appunti sull'attività di sviluppo e creazione portfolio.
 
-in attesa di un mofo migliore.
+in attesa di un modo migliore.
