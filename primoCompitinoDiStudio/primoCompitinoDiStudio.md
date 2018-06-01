@@ -29,6 +29,10 @@ http://patternry.com/p=angular-material-sign-in-form/
 
 https://medium.com/codingthesmartway-com-blog/angular-material-b1973e5a2ee6
 
+https://www.sitepoint.com/angular-forms/
+
+https://material.angular.io/components/form-field/examples
+
 ### step
 
 * app
