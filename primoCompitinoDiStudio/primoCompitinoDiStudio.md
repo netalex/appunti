@@ -25,6 +25,10 @@ https://medium.com/codingthesmartway-com-blog/angular-material-and-angular-6-mat
 
 https://embed.plnkr.co/HonqIW/
 
+http://patternry.com/p=angular-material-sign-in-form/
+
+https://medium.com/codingthesmartway-com-blog/angular-material-b1973e5a2ee6
+
 ### step
 
 * app
