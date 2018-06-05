@@ -9,3 +9,5 @@ https://inviqa.com/blog/bdd-guide
 
 BDD As It's Meant To Be Done
 https://skillsmatter.com/skillscasts/2446-bdd-as-its-meant-to-be-done#showModal?modal-signup-complete
+
+https://github.com/ealves/protractor-recorder
